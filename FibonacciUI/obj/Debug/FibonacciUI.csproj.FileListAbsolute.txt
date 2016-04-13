@@ -1,0 +1,8 @@
+C:\Projects\FibonacciDemo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Projects\FibonacciDemo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Projects\FibonacciDemo\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Projects\FibonacciDemo\ConsoleApplication1\bin\Debug\FibonacciDemo.dll
+C:\Projects\FibonacciDemo\ConsoleApplication1\bin\Debug\FibonacciDemo.pdb
+C:\Projects\FibonacciDemo\ConsoleApplication1\obj\Debug\FibonacciUI.csprojResolveAssemblyReference.cache
+C:\Projects\FibonacciDemo\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Projects\FibonacciDemo\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

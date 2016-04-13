@@ -1,0 +1,7 @@
+C:\Projects\FibonacciDemo\TestProject\bin\Debug\TestProject.dll
+C:\Projects\FibonacciDemo\TestProject\bin\Debug\TestProject.pdb
+C:\Projects\FibonacciDemo\TestProject\bin\Debug\FibonacciDemo.dll
+C:\Projects\FibonacciDemo\TestProject\bin\Debug\FibonacciDemo.pdb
+C:\Projects\FibonacciDemo\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Projects\FibonacciDemo\TestProject\obj\Debug\TestProject.dll
+C:\Projects\FibonacciDemo\TestProject\obj\Debug\TestProject.pdb
